@@ -15,6 +15,7 @@ JSON     1 min           ░░░░░░░░░░░░░░░░░░�
 ---
 
 ![ism0080's Github Stats](https://github-readme-stats.vercel.app/api?username=ism0080&show_icons=true%hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ism0080&layout=compact)]
 
 <!--
 **ism0080/ism0080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
