@@ -4,11 +4,11 @@
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
 ```text
-C#           3 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.03 % 
-CSHTML       1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.27 % 
-Other        1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Docker       48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+C#           4 hrs 3 mins    ███████████░░░░░░░░░░░░░░   43.97 % 
+CSHTML       1 hr 59 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.68 % 
+Other        1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Docker       48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
 
