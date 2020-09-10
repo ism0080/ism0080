@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--START_SECTION:giphy-->
+<!--END_SECTION:giphy-->
 
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
