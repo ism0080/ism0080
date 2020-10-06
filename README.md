@@ -14,6 +14,9 @@ Git Config   36 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:comicstrip-->
+<!--END_SECTION:comicstrip-->
+
 ---
 
 ![ism0080's Github Stats](https://github-readme-stats.vercel.app/api?username=ism0080&show_icons=true%hide_border=true&hide=issues)
