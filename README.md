@@ -15,14 +15,6 @@ Git Config   36 mins         ██░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:comicstrip-->
-<p align="center">
- <a href="https://dilbert.com/strip/2020-10-06">
- <img src="http://assets.amuniversal.com/1d281680df2b01382507005056a9545d />
-</a>
- <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bigger_problem.png" />
-</a>
-</p>
 <!--END_SECTION:comicstrip-->
 
 ---
