@@ -15,6 +15,11 @@ Python       47 mins         ██▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/bigger_problem.png" />
+</a>
+</p>
 <!--END_SECTION:comicstrip-->
 
 ---
