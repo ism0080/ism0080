@@ -17,7 +17,7 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bigger_problem.png" />
+ <img src="https://imgs.xkcd.com/comics/all_in_one.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
