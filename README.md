@@ -17,7 +17,7 @@ Bash         2 hrs 9 mins    ██▓░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/all_in_one.png" />
+ <img src="https://imgs.xkcd.com/comics/prediction.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
