@@ -17,7 +17,7 @@ JavaScript   1 hr 59 mins    █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/election_screen_time.png" />
+ <img src="https://imgs.xkcd.com/comics/dialect_quiz.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
