@@ -17,7 +17,7 @@ Markdown     34 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dialect_quiz.png" />
+ <img src="https://imgs.xkcd.com/comics/chemist_eggs.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
