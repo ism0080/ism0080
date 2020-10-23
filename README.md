@@ -17,7 +17,7 @@ YAML         1 hr 12 mins    █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/10000_hours.png" />
+ <img src="https://imgs.xkcd.com/comics/worst_ladder.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
