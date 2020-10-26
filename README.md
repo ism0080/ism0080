@@ -17,7 +17,7 @@ Bash    18 mins         ▒░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/worst_ladder.png" />
+ <img src="https://imgs.xkcd.com/comics/curbside.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
