@@ -17,7 +17,7 @@ Docker   21 mins         ▒░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/curbside.png" />
+ <img src="https://imgs.xkcd.com/comics/xkcd_phone_12.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
