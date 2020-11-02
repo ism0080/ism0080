@@ -17,7 +17,7 @@ YAML     15 mins         ▒░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fall_back.png" />
+ <img src="https://imgs.xkcd.com/comics/probability_comparisons.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
