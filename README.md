@@ -17,7 +17,7 @@ JSON    44 mins         █░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/probability_comparisons.png" />
+ <img src="https://imgs.xkcd.com/comics/the_true_name_of_the_bear.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
