@@ -17,7 +17,7 @@ CSS          59 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/the_true_name_of_the_bear.png" />
+ <img src="https://imgs.xkcd.com/comics/ballot_tracker_tracker.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
