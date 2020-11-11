@@ -17,7 +17,7 @@ LESS         58 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ballot_tracker_tracker.png" />
+ <img src="https://imgs.xkcd.com/comics/electoral_precedent_2020.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
