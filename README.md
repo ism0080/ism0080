@@ -17,7 +17,7 @@ HTML         50 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/set_in_the_present.png" />
+ <img src="https://imgs.xkcd.com/comics/final_exam.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
