@@ -17,7 +17,7 @@ JSON         19 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ten_years.png" />
+ <img src="https://imgs.xkcd.com/comics/blair_witch.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
