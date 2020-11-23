@@ -17,7 +17,7 @@ JSON         17 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/blair_witch.png" />
+ <img src="https://imgs.xkcd.com/comics/viral_quiz_identity_theft.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
