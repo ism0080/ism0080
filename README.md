@@ -17,7 +17,7 @@ JSON         1 hr 9 mins     █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/linguists.png" />
+ <img src="https://imgs.xkcd.com/comics/life_before_the_pandemic.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
