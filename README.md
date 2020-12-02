@@ -17,7 +17,7 @@ YAML         52 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/life_before_the_pandemic.png" />
+ <img src="https://imgs.xkcd.com/comics/cyber_cafe.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
