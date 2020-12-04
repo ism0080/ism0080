@@ -17,7 +17,7 @@ YAML         1 hr 1 min      █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/cyber_cafe.png" />
+ <img src="https://imgs.xkcd.com/comics/presidential_middle_names.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
