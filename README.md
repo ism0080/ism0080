@@ -17,7 +17,7 @@ Docker       1 hr 15 mins    ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/presidential_middle_names.png" />
+ <img src="https://imgs.xkcd.com/comics/contiguous_41_states.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
