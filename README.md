@@ -17,7 +17,7 @@ YAML         1 hr 19 mins    ██▒░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/contiguous_41_states.png" />
+ <img src="https://imgs.xkcd.com/comics/covid_precaution_level.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
