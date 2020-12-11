@@ -17,7 +17,7 @@ SQL          1 hr 8 mins     █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/covid_precaution_level.png" />
+ <img src="https://imgs.xkcd.com/comics/wonder_woman_1984.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
