@@ -17,7 +17,7 @@ Other        23 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/wonder_woman_1984.png" />
+ <img src="https://imgs.xkcd.com/comics/i_just_dont_trust_them.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
