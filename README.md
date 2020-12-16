@@ -17,7 +17,7 @@ TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/i_just_dont_trust_them.png" />
+ <img src="https://imgs.xkcd.com/comics/vaccine_tracker.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
