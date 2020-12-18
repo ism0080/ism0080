@@ -17,7 +17,7 @@ YAML         12 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/vaccine_tracker.png" />
+ <img src="https://imgs.xkcd.com/comics/2020_election_map.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
