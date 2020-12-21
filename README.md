@@ -17,7 +17,7 @@ Python       26 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/2020_election_map.png" />
+ <img src="https://imgs.xkcd.com/comics/statistics.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
