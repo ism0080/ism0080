@@ -17,7 +17,7 @@ HTML         19 mins         █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/conjunction.png" />
+ <img src="https://imgs.xkcd.com/comics/into_my_veins.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
