@@ -13,7 +13,7 @@ No Activity tracked this Week
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/first_thing.png" />
+ <img src="https://imgs.xkcd.com/comics/flash_gatsby.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
