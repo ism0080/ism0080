@@ -17,7 +17,7 @@ CSS          18 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/steepen_the_curve.png" />
+ <img src="https://imgs.xkcd.com/comics/apple_growers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
