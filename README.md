@@ -17,7 +17,7 @@ YAML         14 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/allow_captcha.png" />
+ <img src="https://imgs.xkcd.com/comics/trash_compactor_party.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
