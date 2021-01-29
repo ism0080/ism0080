@@ -17,7 +17,7 @@ Text         19 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/trash_compactor_party.png" />
+ <img src="https://imgs.xkcd.com/comics/1_1000th_scale_world.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
