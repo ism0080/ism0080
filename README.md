@@ -17,7 +17,7 @@ JSON         36 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/tower_of_babel.png" />
+ <img src="https://imgs.xkcd.com/comics/vaccine_ordering.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
