@@ -17,7 +17,7 @@ Bash         33 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/vaccine_ordering.png" />
+ <img src="https://imgs.xkcd.com/comics/project_orion.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
