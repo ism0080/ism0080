@@ -17,7 +17,7 @@ YAML         39 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/mrna_vaccine.png" />
+ <img src="https://imgs.xkcd.com/comics/animal_songs.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
