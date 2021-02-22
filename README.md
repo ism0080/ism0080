@@ -17,7 +17,7 @@ YAML         43 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/animal_songs.png" />
+ <img src="https://imgs.xkcd.com/comics/perseverance_microphones.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
