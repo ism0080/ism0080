@@ -17,7 +17,7 @@ MDX          1 hr 4 mins     █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/perseverance_microphones.png" />
+ <img src="https://imgs.xkcd.com/comics/mars_landing_video.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
