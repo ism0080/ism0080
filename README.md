@@ -17,7 +17,7 @@ Other        1 hr 25 mins    █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/post_pandemic_hat.png" />
+ <img src="https://imgs.xkcd.com/comics/leap_year_2021.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
