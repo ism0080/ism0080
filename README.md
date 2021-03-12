@@ -17,7 +17,7 @@ CSHTML       1 hr 36 mins    ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/vaccine_guidance.png" />
+ <img src="https://imgs.xkcd.com/comics/geothmetic_meandian.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
