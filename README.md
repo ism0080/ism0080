@@ -17,7 +17,7 @@ JSON         1 hr            █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geothmetic_meandian.png" />
+ <img src="https://imgs.xkcd.com/comics/circles.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
