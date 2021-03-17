@@ -17,7 +17,7 @@ JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/circles.png" />
+ <img src="https://imgs.xkcd.com/comics/post_vaccine_party.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
