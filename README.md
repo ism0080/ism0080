@@ -17,7 +17,7 @@ JSON     1 hr 44 mins    █▓░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/siri.png" />
+ <img src="https://imgs.xkcd.com/comics/solar_system_cartogram.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
