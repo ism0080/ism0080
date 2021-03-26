@@ -6,11 +6,11 @@
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
 ```text
-Other    3 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.27 % 
-C#       3 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
-JSON     1 hr 59 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.94 % 
-YAML     1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Python   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JSON     2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+C#       2 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
+Other    2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
+YAML     1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Python   45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 ```
 <!--END_SECTION:waka-->
 
