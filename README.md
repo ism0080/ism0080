@@ -17,7 +17,7 @@ YAML         33 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/mask_opinions.png" />
+ <img src="https://imgs.xkcd.com/comics/immune_response.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
