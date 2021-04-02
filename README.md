@@ -17,7 +17,7 @@ Python       12 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/immune_response.png" />
+ <img src="https://imgs.xkcd.com/comics/checkbox.gif" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
