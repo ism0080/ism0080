@@ -17,7 +17,7 @@ CSHTML       1 hr 5 mins     █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/eradication.png" />
+ <img src="https://imgs.xkcd.com/comics/iss_vaccine.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
