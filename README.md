@@ -17,7 +17,7 @@ Other        1 hr 36 mins    ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/iss_vaccine.png" />
+ <img src="https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
