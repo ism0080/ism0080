@@ -17,7 +17,7 @@ Other        1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/post_vaccine_social_scheduling.png" />
+ <img src="https://imgs.xkcd.com/comics/ai_methodology.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
