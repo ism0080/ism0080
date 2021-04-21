@@ -17,7 +17,7 @@ Other        42 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ai_methodology.png" />
+ <img src="https://imgs.xkcd.com/comics/aviation_firsts.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
