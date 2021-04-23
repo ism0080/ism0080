@@ -17,7 +17,7 @@ Python       53 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/aviation_firsts.png" />
+ <img src="https://imgs.xkcd.com/comics/excel_lambda.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
