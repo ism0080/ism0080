@@ -17,7 +17,7 @@ Python       57 mins         █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fully_vaccinated.png" />
+ <img src="https://imgs.xkcd.com/comics/virus_consulting.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
