@@ -17,7 +17,7 @@ Other        44 mins         ███░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/virus_consulting.png" />
+ <img src="https://imgs.xkcd.com/comics/types_of_scientific_paper.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
