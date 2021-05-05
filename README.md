@@ -17,7 +17,7 @@ C#           21 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/after_the_pandemic.png" />
+ <img src="https://imgs.xkcd.com/comics/bubble_wrap.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
