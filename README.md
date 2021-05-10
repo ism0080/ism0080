@@ -17,7 +17,7 @@ Other        37 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/march_2020.png" />
+ <img src="https://imgs.xkcd.com/comics/vaccinated.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
