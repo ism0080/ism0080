@@ -17,7 +17,7 @@ Other        54 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/vaccinated.png" />
+ <img src="https://imgs.xkcd.com/comics/90s_kid_space_program.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
