@@ -6,11 +6,11 @@
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
 ```text
-Dart         12 hrs 51 mins  █████████████▓░░░░░░░░░░░   55.11 % 
-C#           6 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
-JavaScript   2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Other        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Dart         14 hrs 53 mins  ████████████████▒░░░░░░░░   65.05 % 
+C#           3 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+JavaScript   2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+YAML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 <!--END_SECTION:waka-->
 
