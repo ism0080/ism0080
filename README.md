@@ -17,7 +17,7 @@ Other        46 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dimensional_chess.png" />
+ <img src="https://imgs.xkcd.com/comics/in_your_classroom.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
