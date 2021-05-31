@@ -17,7 +17,7 @@ SQL          1 hr 2 mins     █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/inheritance.png" />
+ <img src="https://imgs.xkcd.com/comics/astronomy_status_board.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
