@@ -17,7 +17,7 @@ Text         1 hr 2 mins     █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/astronomy_status_board.png" />
+ <img src="https://imgs.xkcd.com/comics/next_slide_please.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
