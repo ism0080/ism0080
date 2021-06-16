@@ -17,7 +17,7 @@ Other        29 mins         ██▓░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/health_drink.png" />
+ <img src="https://imgs.xkcd.com/comics/base_rate.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
