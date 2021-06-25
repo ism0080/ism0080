@@ -17,7 +17,7 @@ HTML         10 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/houseguests.png" />
+ <img src="https://imgs.xkcd.com/comics/no_the_other_one.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
