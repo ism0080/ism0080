@@ -17,7 +17,7 @@ Text         11 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/no_the_other_one.png" />
+ <img src="https://imgs.xkcd.com/comics/1991_and_2021.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
