@@ -17,7 +17,7 @@ Other        6 mins          ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/1991_and_2021.png" />
+ <img src="https://imgs.xkcd.com/comics/indoor_socializing.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
