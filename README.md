@@ -6,8 +6,8 @@
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 hrs 10 mins  ████████████████████████░   96.43 % 
-JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JavaScript   22 hrs 32 mins  ████████████████████████▓   98.70 % 
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
 
