@@ -17,7 +17,7 @@ SCSS         56 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/logic_gates.png" />
+ <img src="https://imgs.xkcd.com/comics/forest_walk.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
