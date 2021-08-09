@@ -17,7 +17,7 @@ JSON         29 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/forest_walk.png" />
+ <img src="https://imgs.xkcd.com/comics/abandonment_function.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
