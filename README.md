@@ -17,7 +17,7 @@ CSS          45 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/global_temperature_over_my_lifetime.png" />
+ <img src="https://imgs.xkcd.com/comics/average_familiarity.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
