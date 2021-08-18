@@ -17,7 +17,7 @@ CSS          22 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/every_data_table.png" />
+ <img src="https://imgs.xkcd.com/comics/memo_spike_connector.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
