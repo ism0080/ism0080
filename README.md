@@ -17,7 +17,7 @@ CSS          1 hr 6 mins     █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/memo_spike_connector.png" />
+ <img src="https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
