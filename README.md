@@ -6,11 +6,11 @@
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
 ```text
-TypeScript   21 hrs 37 mins  ████████████████▒░░░░░░░░   65.64 % 
-JavaScript   7 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.96 % 
-JSON         2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-SCSS         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TypeScript   20 hrs 2 mins   ████████████████░░░░░░░░░   63.68 % 
+JavaScript   8 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.59 % 
+JSON         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+SCSS         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
 
