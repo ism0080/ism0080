@@ -17,7 +17,7 @@ JSON         1 hr 1 min      █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/modern_tools.png" />
+ <img src="https://imgs.xkcd.com/comics/recreate_the_conditions.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
