@@ -17,7 +17,7 @@ SCSS         1 hr 33 mins    █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/rover_replies.png" />
+ <img src="https://imgs.xkcd.com/comics/lumpers_and_splitters.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
