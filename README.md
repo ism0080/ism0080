@@ -17,7 +17,7 @@ JSX          1 hr 14 mins    █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/lumpers_and_splitters.png" />
+ <img src="https://imgs.xkcd.com/comics/sloped_border.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
