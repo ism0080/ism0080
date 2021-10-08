@@ -17,7 +17,7 @@ Other        25 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/comet_visitor.png" />
+ <img src="https://imgs.xkcd.com/comics/air_travel_packing_list.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
