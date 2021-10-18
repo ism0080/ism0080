@@ -17,7 +17,7 @@ JavaScript   5 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/flag_map_sabotage.png" />
+ <img src="https://imgs.xkcd.com/comics/unsolved_math_problems.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
