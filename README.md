@@ -17,7 +17,7 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/common_cold_viruses.png" />
+ <img src="https://imgs.xkcd.com/comics/wirecutter.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
