@@ -17,7 +17,7 @@ CSS          7 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/flinch.png" />
+ <img src="https://imgs.xkcd.com/comics/ttsltswbd.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
