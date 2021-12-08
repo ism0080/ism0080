@@ -17,7 +17,7 @@ XML          1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/webb.png" />
+ <img src="https://imgs.xkcd.com/comics/debunking.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
