@@ -17,7 +17,7 @@ HTML         1 hr 17 mins    █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/immunity.png" />
+ <img src="https://imgs.xkcd.com/comics/rapid_test_results.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
