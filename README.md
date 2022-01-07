@@ -6,9 +6,7 @@
 ### This weeks coding stats <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e4723nsktnyyj53u162g7cy5rjqfg6gz06kxdg5y55g&rid=giphy.gif" width="20" height="20" />
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 41 mins   █████████████████████▒░░░   85.03 % 
-C#           35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
