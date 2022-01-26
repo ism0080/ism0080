@@ -17,7 +17,7 @@ Dart         1 hr 8 mins     █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/hydraulic_analogy.png" />
+ <img src="https://imgs.xkcd.com/comics/alien_observers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
