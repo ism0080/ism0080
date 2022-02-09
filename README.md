@@ -17,7 +17,7 @@ HTML         18 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/sea_chase.png" />
+ <img src="https://imgs.xkcd.com/comics/sword_pull.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
