@@ -19,7 +19,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/rest_and_fluids.png" />
+ <img src="https://imgs.xkcd.com/comics/health_stats.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
