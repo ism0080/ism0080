@@ -17,7 +17,7 @@ JSON         25 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/chorded_keyboard.png" />
+ <img src="https://imgs.xkcd.com/comics/headline_words.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
