@@ -20,7 +20,7 @@ Other        32 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/outlet_denier.png" />
+ <img src="https://imgs.xkcd.com/comics/i_shouldnt_complain.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
