@@ -20,7 +20,7 @@ YAML         48 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/i_shouldnt_complain.png" />
+ <img src="https://imgs.xkcd.com/comics/qua.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
