@@ -20,7 +20,7 @@ Git Config   9 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/advanced_techniques.png" />
+ <img src="https://imgs.xkcd.com/comics/galaxies.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
