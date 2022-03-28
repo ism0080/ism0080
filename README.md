@@ -20,7 +20,7 @@ SQL          20 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/salary_negotiation.png" />
+ <img src="https://imgs.xkcd.com/comics/graphic_designers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
