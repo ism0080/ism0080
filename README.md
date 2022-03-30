@@ -20,7 +20,7 @@ Dart         19 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/graphic_designers.png" />
+ <img src="https://imgs.xkcd.com/comics/spacecraft_debris_odds_ratio.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
