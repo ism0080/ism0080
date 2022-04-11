@@ -20,7 +20,7 @@ Dart         34 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/childhood_toys.png" />
+ <img src="https://imgs.xkcd.com/comics/frankenstein_captcha.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
