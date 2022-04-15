@@ -20,7 +20,7 @@ C#           18 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/taylor_series.png" />
+ <img src="https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
