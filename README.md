@@ -19,7 +19,7 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geiger_counter.png" />
+ <img src="https://imgs.xkcd.com/comics/family_reunion.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
