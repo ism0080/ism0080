@@ -17,7 +17,7 @@ JavaScript   8 mins          █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/family_reunion.png" />
+ <img src="https://imgs.xkcd.com/comics/entwives.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
