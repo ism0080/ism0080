@@ -20,7 +20,7 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/assigning_numbers.png" />
+ <img src="https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
