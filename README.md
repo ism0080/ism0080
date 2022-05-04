@@ -20,7 +20,7 @@ JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bad_map_projection_madagascator.png" />
+ <img src="https://imgs.xkcd.com/comics/2.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
