@@ -20,7 +20,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/shuttle_skeleton.png" />
+ <img src="https://imgs.xkcd.com/comics/exercise_progression.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
