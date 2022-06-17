@@ -20,7 +20,7 @@ CSV          9 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/greatest_scientist.png" />
+ <img src="https://imgs.xkcd.com/comics/astronomer_hotline.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
