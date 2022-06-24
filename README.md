@@ -19,7 +19,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/superintelligent_ais.png" />
+ <img src="https://imgs.xkcd.com/comics/what_if_2_countdown.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
