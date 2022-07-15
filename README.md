@@ -20,7 +20,7 @@ Dart         17 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fmri_billboard.png" />
+ <img src="https://imgs.xkcd.com/comics/the_best_camera.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
