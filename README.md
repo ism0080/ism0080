@@ -20,7 +20,7 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/the_best_camera.png" />
+ <img src="https://imgs.xkcd.com/comics/minkowski_space.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
