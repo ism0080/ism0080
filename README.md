@@ -20,7 +20,7 @@ Other        46 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/physics_cost_saving_tips.png" />
+ <img src="https://imgs.xkcd.com/comics/deepfakes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
