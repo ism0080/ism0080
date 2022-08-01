@@ -18,7 +18,7 @@ Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/air_gap.png" />
+ <img src="https://imgs.xkcd.com/comics/proxy_variable.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
