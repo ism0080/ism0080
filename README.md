@@ -19,7 +19,7 @@ Other        1 hr 19 mins    █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/chemtrails.png" />
+ <img src="https://imgs.xkcd.com/comics/asking_scientists_questions.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
