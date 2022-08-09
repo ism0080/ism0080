@@ -7,11 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   22 hrs 12 mins  ████████████████░░░░░░░░░   64.65 %
-JavaScript   4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-C#           3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Dart         1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Other        1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TypeScript   21 hrs 34 mins  ███████████████▓░░░░░░░░░   62.98 %
+JavaScript   7 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.64 %
+Other        1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
