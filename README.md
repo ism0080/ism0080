@@ -20,7 +20,7 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/tetherball_configurations.png" />
+ <img src="https://imgs.xkcd.com/comics/cloud_swirls.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
