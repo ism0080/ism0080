@@ -20,7 +20,7 @@ Bash         16 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/interruption.png" />
+ <img src="https://imgs.xkcd.com/comics/what_if_2_flowchart.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
