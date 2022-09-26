@@ -20,7 +20,7 @@ Other        13 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/pilot_priority_list.png" />
+ <img src="https://imgs.xkcd.com/comics/historical_dates.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
