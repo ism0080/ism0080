@@ -20,7 +20,7 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/historical_dates.png" />
+ <img src="https://imgs.xkcd.com/comics/two_key_system.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
