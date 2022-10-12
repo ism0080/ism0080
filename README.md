@@ -19,7 +19,7 @@ Other        19 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/easy_or_hard.png" />
+ <img src="https://imgs.xkcd.com/comics/fan_theories.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
