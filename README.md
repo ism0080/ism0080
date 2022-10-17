@@ -19,7 +19,7 @@ Other        37 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/road_space_comparison.png" />
+ <img src="https://imgs.xkcd.com/comics/2045.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
