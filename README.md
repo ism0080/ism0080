@@ -20,7 +20,7 @@ Other        23 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/2045.png" />
+ <img src="https://imgs.xkcd.com/comics/space_adventure.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
