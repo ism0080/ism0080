@@ -19,7 +19,7 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/soil.png" />
+ <img src="https://imgs.xkcd.com/comics/precision_vs_accuracy.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
