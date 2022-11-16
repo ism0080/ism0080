@@ -20,7 +20,7 @@ JSON         18 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/y2k_and_2038.png" />
+ <img src="https://imgs.xkcd.com/comics/bad_date.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
