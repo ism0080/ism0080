@@ -20,7 +20,7 @@ Git Config   8 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/what_if_2_gift_guide.png" />
+ <img src="https://imgs.xkcd.com/comics/paper_title.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
