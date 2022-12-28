@@ -20,7 +20,7 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/pando.png" />
+ <img src="https://imgs.xkcd.com/comics/l6_lagrange_point.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
