@@ -15,7 +15,7 @@ No activity tracked
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/new_years_eve_party.png" />
+ <img src="https://imgs.xkcd.com/comics/hydrogen_isotopes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
