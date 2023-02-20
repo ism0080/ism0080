@@ -17,7 +17,7 @@ Other        1 hr 50 mins    ███▒░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/omniknot.png" />
+ <img src="https://imgs.xkcd.com/comics/data_quality.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
