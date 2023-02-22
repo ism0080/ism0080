@@ -17,7 +17,7 @@ Other        1 hr 28 mins    ███▒░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/data_quality.png" />
+ <img src="https://imgs.xkcd.com/comics/square_packing.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
