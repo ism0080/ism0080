@@ -16,7 +16,7 @@ Other        2 hrs 21 mins   ██████▓░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/island_storage.png" />
+ <img src="https://imgs.xkcd.com/comics/hand_dryers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
