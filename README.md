@@ -16,7 +16,7 @@ Other        1 hr 21 mins    ████▓░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/obituary_editor.png" />
+ <img src="https://imgs.xkcd.com/comics/launch_window.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
