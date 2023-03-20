@@ -17,7 +17,7 @@ Other    3 mins          ██░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/flatten_the_planets.png" />
+ <img src="https://imgs.xkcd.com/comics/march_madness.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
