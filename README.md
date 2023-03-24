@@ -16,7 +16,7 @@ Other        2 hrs 38 mins   ████░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/salt_dome.png" />
+ <img src="https://imgs.xkcd.com/comics/air_handler.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
