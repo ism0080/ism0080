@@ -16,7 +16,7 @@ Other        3 hrs 5 mins    ████▒░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/air_handler.png" />
+ <img src="https://imgs.xkcd.com/comics/relative_terms.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
