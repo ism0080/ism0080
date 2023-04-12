@@ -17,7 +17,7 @@ Other        39 mins         ███▓░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/paleontology_museum.png" />
+ <img src="https://imgs.xkcd.com/comics/1_to_1_scale.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
