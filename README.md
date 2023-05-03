@@ -15,7 +15,7 @@ Other        30 mins         ███████████▒░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/overlapping_circles.png" />
+ <img src="https://imgs.xkcd.com/comics/tapetum_lucidum.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
