@@ -19,7 +19,7 @@ Markdown     31 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/planetary_scientist.png" />
+ <img src="https://imgs.xkcd.com/comics/taxiing.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
