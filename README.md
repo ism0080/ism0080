@@ -19,7 +19,7 @@ Bash         18 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/noise_filter.png" />
+ <img src="https://imgs.xkcd.com/comics/cuisine.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
