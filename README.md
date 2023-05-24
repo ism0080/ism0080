@@ -19,7 +19,7 @@ Other        21 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/cuisine.png" />
+ <img src="https://imgs.xkcd.com/comics/exoplanet_high_5.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
