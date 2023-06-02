@@ -19,7 +19,7 @@ Bash         8 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/wikipedia_article_titles.png" />
+ <img src="https://imgs.xkcd.com/comics/ruling_out.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
