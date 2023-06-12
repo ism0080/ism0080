@@ -19,7 +19,7 @@ TSConfig     2 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ufo_evidence.png" />
+ <img src="https://imgs.xkcd.com/comics/iceberg.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
