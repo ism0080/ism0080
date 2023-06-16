@@ -19,7 +19,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/musical_scales.png" />
+ <img src="https://imgs.xkcd.com/comics/making_plans.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
