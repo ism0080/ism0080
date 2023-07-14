@@ -19,7 +19,7 @@ Python       40 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/down.png" />
+ <img src="https://imgs.xkcd.com/comics/contact_merge.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
