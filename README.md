@@ -19,7 +19,7 @@ Binary       39 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/anti_vaxxers.png" />
+ <img src="https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
