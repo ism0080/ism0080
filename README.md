@@ -19,7 +19,7 @@ GraphQL      11 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/moon.png" />
+ <img src="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
