@@ -19,7 +19,7 @@ JSON             28 mins         ▓░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/car_wash.png" />
+ <img src="https://imgs.xkcd.com/comics/types_of_solar_eclipse.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
