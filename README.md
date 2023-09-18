@@ -19,7 +19,7 @@ Python           1 hr 8 mins     ██░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/exoplanet_observation.png" />
+ <img src="https://imgs.xkcd.com/comics/iceberg_efficiency.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
