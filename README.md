@@ -19,7 +19,7 @@ Python           1 hr 46 mins    ██░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/haunted_house.png" />
+ <img src="https://imgs.xkcd.com/comics/xkcd_phone_flip.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
