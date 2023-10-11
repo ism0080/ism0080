@@ -19,7 +19,7 @@ JSON             19 mins         ▓░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dubious_islands.png" />
+ <img src="https://imgs.xkcd.com/comics/language_acquisition.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
