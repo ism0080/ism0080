@@ -19,7 +19,7 @@ JavaScript       40 mins         █▒░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/language_acquisition.png" />
+ <img src="https://imgs.xkcd.com/comics/earth_layers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
