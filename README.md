@@ -19,7 +19,7 @@ GDScript         2 mins          █▓░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png" />
+ <img src="https://imgs.xkcd.com/comics/extinction_mechanisms.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
