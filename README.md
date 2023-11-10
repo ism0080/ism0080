@@ -19,7 +19,7 @@ C#           1 hr 3 mins     ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/messier_objects.png" />
+ <img src="https://imgs.xkcd.com/comics/parameterball.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
