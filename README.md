@@ -19,7 +19,7 @@ YAML         1 hr 8 mins     ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/empiricism.png" />
+ <img src="https://imgs.xkcd.com/comics/materials_scientists.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
