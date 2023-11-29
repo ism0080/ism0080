@@ -19,7 +19,7 @@ JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/oceanography_gift.png" />
+ <img src="https://imgs.xkcd.com/comics/decay_modes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
