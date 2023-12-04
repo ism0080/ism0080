@@ -19,7 +19,7 @@ TypeScript   54 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/x_value.png" />
+ <img src="https://imgs.xkcd.com/comics/typical_seating_chart.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
