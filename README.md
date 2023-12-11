@@ -19,7 +19,7 @@ C#           27 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/compact_graphs.png" />
+ <img src="https://imgs.xkcd.com/comics/the_wrong_stuff.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
