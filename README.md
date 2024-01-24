@@ -19,7 +19,7 @@ GraphQL      4 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/astronaut_guests.png" />
+ <img src="https://imgs.xkcd.com/comics/log_alignment.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
