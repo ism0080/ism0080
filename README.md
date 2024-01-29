@@ -19,7 +19,7 @@ Go           51 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/spelling.png" />
+ <img src="https://imgs.xkcd.com/comics/fast_radio_bursts.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
