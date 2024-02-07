@@ -19,7 +19,7 @@ JavaScript   37 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/greenhouse_effect.png" />
+ <img src="https://imgs.xkcd.com/comics/relationship_advice.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
