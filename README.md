@@ -19,7 +19,7 @@ JSON         45 mins         █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/relationship_advice.png" />
+ <img src="https://imgs.xkcd.com/comics/log_cabin.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
