@@ -19,7 +19,7 @@ Other        1 hr 5 mins     █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/research_account.png" />
+ <img src="https://imgs.xkcd.com/comics/treasure_chests.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
