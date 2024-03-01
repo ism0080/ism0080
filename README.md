@@ -19,7 +19,7 @@ Pug          1 hr 9 mins     █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/goodharts_law.png" />
+ <img src="https://imgs.xkcd.com/comics/call_my_cell.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
