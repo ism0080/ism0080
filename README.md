@@ -19,7 +19,7 @@ Rust         1 hr 16 mins    █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/call_my_cell.png" />
+ <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
