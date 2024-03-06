@@ -19,7 +19,7 @@ TypeScript   1 hr 15 mins    █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" />
+ <img src="https://imgs.xkcd.com/comics/ice_core.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
