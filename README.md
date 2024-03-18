@@ -19,7 +19,7 @@ Bash         11 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/earth.png" />
+ <img src="https://imgs.xkcd.com/comics/schwa.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
