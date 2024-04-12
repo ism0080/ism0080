@@ -19,7 +19,7 @@ JavaScript   1 hr 7 mins     █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/types_of_eclipse_photo.png" />
+ <img src="https://imgs.xkcd.com/comics/tick_marks.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
