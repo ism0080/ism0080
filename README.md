@@ -19,7 +19,7 @@ Other        36 mins         ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/scary_triangles.png" />
+ <img src="https://imgs.xkcd.com/comics/pendulum_types.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
