@@ -19,7 +19,7 @@ Bash         39 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/doppler_effect.png" />
+ <img src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
