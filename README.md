@@ -19,7 +19,7 @@ Markdown     51 mins         █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/elementary_physics_paths.png" />
+ <img src="https://imgs.xkcd.com/comics/bloom_filter.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
