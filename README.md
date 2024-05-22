@@ -19,7 +19,7 @@ Other        1 hr 4 mins     █▓░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bloom_filter.png" />
+ <img src="https://imgs.xkcd.com/comics/ocean_loop.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
