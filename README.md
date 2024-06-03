@@ -19,7 +19,7 @@ JSON         49 mins         ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/complexity_analysis.png" />
+ <img src="https://imgs.xkcd.com/comics/modes_of_transportation.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
