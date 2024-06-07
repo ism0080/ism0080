@@ -19,7 +19,7 @@ Go           9 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/cell_organelles.png" />
+ <img src="https://imgs.xkcd.com/comics/fluid_speech.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
