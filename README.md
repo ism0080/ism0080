@@ -19,7 +19,7 @@ Other        16 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fluid_speech.png" />
+ <img src="https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
