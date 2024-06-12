@@ -19,7 +19,7 @@ PowerShell    7 mins          ░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png" />
+ <img src="https://imgs.xkcd.com/comics/magnet_fishing.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
