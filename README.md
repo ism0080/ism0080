@@ -19,7 +19,7 @@ JavaScript                 22 mins         ▒░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/exam_numbers.png" />
+ <img src="https://imgs.xkcd.com/comics/matter.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
