@@ -19,7 +19,7 @@ YAML                       24 mins         ▒░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/matter.png" />
+ <img src="https://imgs.xkcd.com/comics/university_age.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
