@@ -19,7 +19,7 @@ TSConfig     14 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ferris_wheels.png" />
+ <img src="https://imgs.xkcd.com/comics/storage_tanks.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
