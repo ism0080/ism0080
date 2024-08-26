@@ -19,7 +19,7 @@ YAML          10 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/classical_periodic_table.png" />
+ <img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
