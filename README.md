@@ -19,7 +19,7 @@ Go            17 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" />
+ <img src="https://imgs.xkcd.com/comics/three_kinds_of_research.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
