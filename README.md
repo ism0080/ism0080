@@ -19,7 +19,7 @@ Go            17 mins         ▒░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/three_kinds_of_research.png" />
+ <img src="https://imgs.xkcd.com/comics/stranded.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
