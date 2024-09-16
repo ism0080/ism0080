@@ -19,7 +19,7 @@ JavaScript   11 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/asteroid_news.png" />
+ <img src="https://imgs.xkcd.com/comics/craters.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
