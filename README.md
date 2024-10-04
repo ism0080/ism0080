@@ -19,7 +19,7 @@ JSON         21 mins         ██░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/uk_coal.png" />
+ <img src="https://imgs.xkcd.com/comics/ingredients.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
