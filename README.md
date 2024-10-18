@@ -18,7 +18,7 @@ TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ravioli_shaped_objects.png" />
+ <img src="https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
