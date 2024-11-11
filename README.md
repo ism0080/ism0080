@@ -19,7 +19,7 @@ XML      0 secs          ░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/proterozoic_rocks.png" />
+ <img src="https://imgs.xkcd.com/comics/number_shortage.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
