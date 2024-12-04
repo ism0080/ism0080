@@ -19,7 +19,7 @@ Other        15 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/second_stage.png" />
+ <img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
