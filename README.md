@@ -19,7 +19,7 @@ TypeScript   23 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/seismologists.png" />
+ <img src="https://imgs.xkcd.com/comics/making_tea.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
