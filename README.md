@@ -18,7 +18,7 @@ Text     2 mins          ▓░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/metar.png" />
+ <img src="https://imgs.xkcd.com/comics/phase_change.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
