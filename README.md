@@ -19,7 +19,7 @@ TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/exclusion_principle.png" />
+ <img src="https://imgs.xkcd.com/comics/dnd_roll.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
