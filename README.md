@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      23 mins         ████████████████▒░░░░░░░░   65.39 %
-C#         11 mins         ████████░░░░░░░░░░░░░░░░░   32.21 %
-TSConfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Binary     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
