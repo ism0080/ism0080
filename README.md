@@ -15,7 +15,7 @@ No activity tracked
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/origami_black_hole.png" />
+ <img src="https://imgs.xkcd.com/comics/features_of_adulthood.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
