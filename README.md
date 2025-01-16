@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-VB.NET   33 mins         ██████████████████▒░░░░░░   73.51 %
-Other    9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
-C#       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
