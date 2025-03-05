@@ -19,7 +19,7 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/excusing_yourself.png" />
+ <img src="https://imgs.xkcd.com/comics/tall_structures.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
