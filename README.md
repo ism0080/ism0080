@@ -15,7 +15,7 @@ TypeScript   1 hr            █████████████████
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/planet_definitions.png" />
+ <img src="https://imgs.xkcd.com/comics/lungfish.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
