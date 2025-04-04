@@ -19,7 +19,7 @@ TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/orogeny.png" />
+ <img src="https://imgs.xkcd.com/comics/decay_chain.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
