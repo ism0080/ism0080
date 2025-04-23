@@ -19,7 +19,7 @@ Ruby                               32 mins         █░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/anchor_bolts.png" />
+ <img src="https://imgs.xkcd.com/comics/air_fact.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
