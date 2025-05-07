@@ -19,7 +19,7 @@ JavaScript   33 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png" />
+ <img src="https://imgs.xkcd.com/comics/about_20_pounds.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
