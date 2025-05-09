@@ -19,7 +19,7 @@ JavaScript   30 mins         █▒░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/about_20_pounds.png" />
+ <img src="https://imgs.xkcd.com/comics/globe_safety.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
