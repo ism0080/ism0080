@@ -7,8 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 mins          ████████████████▓░░░░░░░░   66.56 %
-TypeScript   3 mins          ████████▒░░░░░░░░░░░░░░░░   33.44 %
+Python       3 hrs 2 mins    ███████████████▓░░░░░░░░░   62.92 %
+TypeScript   1 hr 25 mins    ███████▒░░░░░░░░░░░░░░░░░   29.40 %
+Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Batchfile    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
