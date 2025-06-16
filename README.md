@@ -19,7 +19,7 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/good_science.png" />
+ <img src="https://imgs.xkcd.com/comics/reading_a_big_number.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
