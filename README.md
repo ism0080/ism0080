@@ -19,7 +19,7 @@ JSON         6 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/exoplanet_system.png" />
+ <img src="https://imgs.xkcd.com/comics/tukey.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
