@@ -19,7 +19,7 @@ Bash         21 mins         ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fix_this_sign.png" />
+ <img src="https://imgs.xkcd.com/comics/building_a_fire.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
