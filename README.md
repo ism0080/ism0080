@@ -19,7 +19,7 @@ PowerShell        28 mins         ▒░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/echo_chamber.png" />
+ <img src="https://imgs.xkcd.com/comics/replication_crisis.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
