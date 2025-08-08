@@ -19,7 +19,7 @@ Other             16 mins         ▒░░░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/grounded.png" />
+ <img src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
