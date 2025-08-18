@@ -19,7 +19,7 @@ Other        14 mins         ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/thread_meeting.png" />
+ <img src="https://imgs.xkcd.com/comics/archaeology_research.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
