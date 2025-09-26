@@ -19,7 +19,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/piercing.png" />
+ <img src="https://imgs.xkcd.com/comics/fantastic_four.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
