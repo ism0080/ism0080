@@ -19,7 +19,7 @@ Text         8 mins          ▒░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/100_all_achievements.png" />
+ <img src="https://imgs.xkcd.com/comics/measure_twice_cut_once.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
