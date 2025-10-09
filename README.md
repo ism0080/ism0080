@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   9 mins          █████████████████████████   100.00 %
+TypeScript   21 mins         █████████████████████████   99.79 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
