@@ -19,7 +19,7 @@ YAML         10 mins         █░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/heart_mountain.png" />
+ <img src="https://imgs.xkcd.com/comics/repair_video.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
