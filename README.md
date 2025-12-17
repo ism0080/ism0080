@@ -15,7 +15,7 @@ TypeScript   13 mins         █████████████████
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/apples.png" />
+ <img src="https://imgs.xkcd.com/comics/jumping_frog_radius.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
