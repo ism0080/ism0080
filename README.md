@@ -16,7 +16,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/telescope_types.png" />
+ <img src="https://imgs.xkcd.com/comics/pole_vault_pole.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
