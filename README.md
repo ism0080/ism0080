@@ -19,7 +19,7 @@ JSON         0 secs          ▓░░░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/aurora_coolness.png" />
+ <img src="https://imgs.xkcd.com/comics/cost_savings.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
