@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        15 mins         █████████████░░░░░░░░░░░░   51.41 %
-TypeScript   10 mins         █████████░░░░░░░░░░░░░░░░   36.45 %
-Git Config   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-TOML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
