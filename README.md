@@ -15,7 +15,7 @@ JSON   0 secs          ███████████████████
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/early_arthropods.png" />
+ <img src="https://imgs.xkcd.com/comics/chemical_formula.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
