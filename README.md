@@ -19,7 +19,7 @@ Bash         58 mins               █▒░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/plums.png" />
+ <img src="https://imgs.xkcd.com/comics/eliminating_the_impossible.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
