@@ -19,7 +19,7 @@ JSON              33 mins               █░░░░░░░░░░░░�
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/amperage.png" />
+ <img src="https://imgs.xkcd.com/comics/little_red_dots.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
