@@ -18,7 +18,7 @@ JavaScript   5 mins                ▒░░░░░░░░░░░░░░
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/centimeter_wavelengths.png" />
+ <img src="https://imgs.xkcd.com/comics/satellite_pollution.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
