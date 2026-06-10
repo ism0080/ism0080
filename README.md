@@ -15,7 +15,7 @@ No activity tracked
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/planetary_science.png" />
+ <img src="https://imgs.xkcd.com/comics/nostalgia_content.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
