@@ -15,7 +15,7 @@ No activity tracked
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/tethys.png" />
+ <img src="https://imgs.xkcd.com/comics/messi.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
