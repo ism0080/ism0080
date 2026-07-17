@@ -15,7 +15,7 @@ No activity tracked
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/the_princess_and_the_pea.png" />
+ <img src="https://imgs.xkcd.com/comics/time_change.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
