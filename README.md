@@ -15,7 +15,7 @@ No activity tracked
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/highway_signs.png" />
+ <img src="https://imgs.xkcd.com/comics/launchpad.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
